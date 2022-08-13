@@ -1,0 +1,8 @@
+*node_modules*
+.ipynb_checkpoints
+result.json
+exitStatus.txt
+jsonReporter.js
+dist/*
+target/*
+__pycache__/*
