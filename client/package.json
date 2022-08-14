@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "build": "webpack --config webpack.config.js --progress",
+    "start-with-params": "webpack-dev-server --config webpack.config.js --progress --open",
     "start": "webpack-dev-server --config webpack.config.js --progress --open",
     "test": "jest",
     "test:run": "jest --coverage",
